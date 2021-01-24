@@ -82,7 +82,7 @@
 		DDC76D9E248CF94200B2E570 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1140;
+				LastUpgradeCheck = 1230;
 				ORGANIZATIONNAME = "CODIANZ Inc.";
 				TargetAttributes = {
 					DDC76DA5248CF94200B2E570 = {
